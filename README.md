@@ -4,11 +4,11 @@ This is a small API that has been developed using Laravel8. The application uses
 
 ## Built With
 
-PHP 8.1.5
-Laravel8
-MySQL Database
-XAMP
-POSTMAN
+- PHP 8.1.5
+- Laravel8
+- MySQL Database
+- XAMP
+- POSTMAN
 
 ## Getting Started
 
@@ -16,11 +16,11 @@ To get a local copy up and running, follow these simple example steps.
 
 ### Prerequisites
 
-PHP 8.1.5
-Laravel8
-MySQL Database
-XAMP
-POSTMAN
+- PHP 8.1.5
+- Laravel8
+- MySQL Database
+- XAMP
+- POSTMAN
 
 ### Setup
 
